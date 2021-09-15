@@ -1,2 +1,3 @@
-# lecture-demo
-lecture demo
+# lecture-demo hello
+lecture demo changed in bash using nano README.md
+
